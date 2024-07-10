@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.ReverseStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4903916960827572b91fd7056eeffa12bf9f1f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.ReverseStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.ReverseStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

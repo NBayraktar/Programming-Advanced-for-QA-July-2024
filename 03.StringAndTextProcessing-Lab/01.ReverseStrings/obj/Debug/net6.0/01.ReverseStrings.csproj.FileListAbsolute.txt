@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\refint\01.ReverseStrings.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\03.StringAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\ref\01.ReverseStrings.dll
