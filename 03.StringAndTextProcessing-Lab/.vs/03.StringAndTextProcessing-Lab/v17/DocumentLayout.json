@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\03.StringAndTextProcessing-Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{389237E7-5910-4125-BE51-EFBED0C43FEE}|02.RepeatStrings\\02.RepeatStrings.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-advanced-for-qa-july-2024\\03.stringandtextprocessing-lab\\02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{389237E7-5910-4125-BE51-EFBED0C43FEE}|02.RepeatStrings\\02.RepeatStrings.csproj|solutionrelative:02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73890D0D-B2D3-4BF3-9677-641F12D5E3FF}|03.Substring\\03.Substring.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-advanced-for-qa-july-2024\\03.stringandtextprocessing-lab\\03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73890D0D-B2D3-4BF3-9677-641F12D5E3FF}|03.Substring\\03.Substring.csproj|solutionrelative:03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\03.StringAndTextProcessing-Lab\\02.RepeatStrings\\Program.cs",
-              "RelativeDocumentMoniker": "02.RepeatStrings\\Program.cs",
-              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\03.StringAndTextProcessing-Lab\\02.RepeatStrings\\Program.cs",
-              "RelativeToolTip": "02.RepeatStrings\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\03.StringAndTextProcessing-Lab\\03.Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03.Substring\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\03.StringAndTextProcessing-Lab\\03.Substring\\Program.cs",
+              "RelativeToolTip": "03.Substring\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T21:09:57.59Z",
+              "WhenOpened": "2024-07-14T20:48:45.958Z",
               "EditorCaption": ""
             }
           ]
