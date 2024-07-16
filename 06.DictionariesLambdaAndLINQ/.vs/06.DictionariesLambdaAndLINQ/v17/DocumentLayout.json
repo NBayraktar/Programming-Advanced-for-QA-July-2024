@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\06.DictionariesLambdaAndLINQ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CFD4165F-247C-4C70-9E65-1E6FC90D5724}|03.WordSynonyms\\03.WordSynonyms.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-advanced-for-qa-july-2024\\06.dictionarieslambdaandlinq\\03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD4165F-247C-4C70-9E65-1E6FC90D5724}|03.WordSynonyms\\03.WordSynonyms.csproj|solutionrelative:03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CFBFB97-8635-4A21-B806-C7DD3217D5FF}|02.OddOccurrences\\02.OddOccurrences.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-advanced-for-qa-july-2024\\06.dictionarieslambdaandlinq\\02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CFBFB97-8635-4A21-B806-C7DD3217D5FF}|02.OddOccurrences\\02.OddOccurrences.csproj|solutionrelative:02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,6 +32,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\06.DictionariesLambdaAndLINQ\\03.WordSynonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03.WordSynonyms\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\06.DictionariesLambdaAndLINQ\\03.WordSynonyms\\Program.cs",
+              "RelativeToolTip": "03.WordSynonyms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:14:17.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\06.DictionariesLambdaAndLINQ\\02.OddOccurrences\\Program.cs",
               "RelativeDocumentMoniker": "02.OddOccurrences\\Program.cs",
               "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\06.DictionariesLambdaAndLINQ\\02.OddOccurrences\\Program.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\06.DictionariesLambdaAndLINQ\\01.CountRealNumbers\\Program.cs",
               "RelativeDocumentMoniker": "01.CountRealNumbers\\Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "01.CountRealNumbers\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T22:29:15.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T22:29:15.046Z"
             }
           ]
         }
