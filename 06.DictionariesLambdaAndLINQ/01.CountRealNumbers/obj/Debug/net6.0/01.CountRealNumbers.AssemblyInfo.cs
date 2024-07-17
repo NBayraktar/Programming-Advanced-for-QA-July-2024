@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01.CountRealNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2419c35ad6945961734a9124d8670d39ffa5834d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa7b1589d9031c14b4e15ec54456f4b690a75046")]
 [assembly: System.Reflection.AssemblyProductAttribute("01.CountRealNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01.CountRealNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
