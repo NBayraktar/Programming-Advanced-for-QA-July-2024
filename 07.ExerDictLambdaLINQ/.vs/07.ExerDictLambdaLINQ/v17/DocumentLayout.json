@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\07.ExerDictLambdaLINQ\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E07544A-05A4-4F88-BAFA-74EB78F7CDB3}|03.Orders\\03.Orders.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-advanced-for-qa-july-2024\\07.exerdictlambdalinq\\03.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E07544A-05A4-4F88-BAFA-74EB78F7CDB3}|03.Orders\\03.Orders.csproj|solutionrelative:03.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\07.ExerDictLambdaLINQ\\03.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "03.Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\07.ExerDictLambdaLINQ\\03.Orders\\Program.cs",
+              "RelativeToolTip": "03.Orders\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:37:43.941Z",
+              "EditorCaption": ""
             }
           ]
         }
