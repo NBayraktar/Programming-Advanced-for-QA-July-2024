@@ -36,6 +36,14 @@
 
             }
 
+            foreach (KeyValuePair<string, double> kvp in productPrice)
+            {
+                string productName = kvp.Key;
+                double price = kvp.Value;
+                int quantity = productQuantity[productName];
+                double totalPrice = price * quantity;
+                Console.WriteLine($"{productName} -> {totalPrice:F2}");
+            }
 
         }
     }
