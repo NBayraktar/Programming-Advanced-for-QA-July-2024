@@ -1,0 +1,15 @@
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.exe
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.deps.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.runtimeconfig.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.AssemblyInfo.cs
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.sourcelink.json
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\refint\05.StudentAcademy.dll
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.pdb
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.genruntimeconfig.cache
+C:\Users\nab10\OneDrive\Documents\GitHub\Programming-Advanced-for-QA-July-2024\07.ExerDictLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\ref\05.StudentAcademy.dll
