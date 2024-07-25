@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\03.StringAndTextProcessing-Lab\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E2ED30-54A7-415E-8CF6-298B204E6FF0}|05.DigitsLettersAndOther\\05.DigitsLettersAndOther.csproj|c:\\users\\nab10\\onedrive\\documents\\github\\programming-advanced-for-qa-july-2024\\03.stringandtextprocessing-lab\\05.digitslettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E2ED30-54A7-415E-8CF6-298B204E6FF0}|05.DigitsLettersAndOther\\05.DigitsLettersAndOther.csproj|solutionrelative:05.digitslettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\03.StringAndTextProcessing-Lab\\05.DigitsLettersAndOther\\Program.cs",
+              "RelativeDocumentMoniker": "05.DigitsLettersAndOther\\Program.cs",
+              "ToolTip": "C:\\Users\\nab10\\OneDrive\\Documents\\GitHub\\Programming-Advanced-for-QA-July-2024\\03.StringAndTextProcessing-Lab\\05.DigitsLettersAndOther\\Program.cs",
+              "RelativeToolTip": "05.DigitsLettersAndOther\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:37:33.827Z",
+              "EditorCaption": ""
             }
           ]
         }
